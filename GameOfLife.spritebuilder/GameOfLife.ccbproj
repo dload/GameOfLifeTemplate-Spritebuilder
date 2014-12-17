@@ -39,7 +39,7 @@
 	<key>publishDirectoryAndroid</key>
 	<string>Source/Resources/Published-Android</string>
 	<key>publishEnabledAndroid</key>
-	<true/>
+	<false/>
 	<key>publishEnablediPhone</key>
 	<true/>
 	<key>publishEnvironment</key>
@@ -63,7 +63,7 @@
 	<key>publishToZipFile</key>
 	<false/>
 	<key>resourceAutoScaleFactor</key>
-	<integer>4</integer>
+	<integer>2</integer>
 	<key>resourcePaths</key>
 	<array>
 		<dict>
@@ -164,9 +164,9 @@
 		</dict>
 	</dict>
 	<key>versionStr</key>
-	<string>revision : 87486f6b8d
+	<string>revision : 71571752ab
 sku : default
-version : 1.3.5
+version : 1.3.6
 </string>
 </dict>
 </plist>
